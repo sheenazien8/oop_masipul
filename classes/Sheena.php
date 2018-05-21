@@ -6,7 +6,7 @@
 	{
 		public function santri()
 		{
-
+			return 'ini Sheena';
 		}
 	}
 ?>
